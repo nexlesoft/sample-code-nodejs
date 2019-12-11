@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "eslint": "^4.2.0",
-    "foreman": "^2.0.0",
+    "foreman": "^3.0.1",
     "nodemon": "^1.19.2"
   },
   "scripts": {
