@@ -16,9 +16,8 @@ $ git clone https://github.com/nexlesoft/sample-code-nodejs
 More details here
 https://nodejs.org/en/download/ 
 
-####// note:
- - Create .env base on .env-template
- - The project requires nodeJS version 8.15.x
+
+ 
 ####3. On the command prompt run the following commands
 
 ```sh
@@ -31,5 +30,9 @@ $ npm install
 $ npm start
 ```
 
-## Try http://localhost:3001/documentation
+## Try http://localhost:3001/documentation 
+If the link shows some sample API spec, that means the project has been installed and run successfully. Now you can add more APIs
 
+## Note:
+ - Create .env base on .env-template
+ - The project requires nodeJS version 8.15.x
